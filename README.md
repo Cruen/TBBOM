@@ -15,8 +15,8 @@ This BOM is intended for friend/tester self-builds of Trackbox. It reflects curr
 | Category | Part | Status | Notes | Vendor | Link |
 |---|---|---|---|---|---|
 | Core | Raspberry Pi 5 (4GB tested) | Tested | Current tested platform. Pi 3 / Pi 4 testing recommended for lower-cost builds. | Adafruit | https://www.adafruit.com/product/5812 |
-| Display | Waveshare 2.8 inch 320x240 screen | Needs confirmation | Current display candidate. | Amazon | https://a.co/d/0bDNxgW6 |
-| Storage / USB | Anker card reader | Needs confirmation | If using two, they are too wide to fit side-by-side directly on the Pi. | Amazon | https://a.co/d/0h34fN50 |
+| Display | Waveshare 2.8 inch 320x240 screen | Tested | Current display candidate. | Amazon | https://a.co/d/0bDNxgW6 |
+| Storage / USB | Anker card reader | Tested | If using two, they are too wide to fit side-by-side directly on the Pi. | Amazon | https://a.co/d/0h34fN50 |
 | Storage / USB | USB spacing adapter | Conditional | Needed if using two Anker card readers side-by-side. | Amazon | https://www.amazon.com/dp/B0BVH24NHM?th=1 |
 | Audio Out | PCM5102A headphone out DAC | Untested | Specced but not yet validated. | Amazon | https://a.co/d/04uAqcG0 |
 | Audio In | PCM1808 line-in ADC | Untested | Specced but not yet validated. | Amazon | https://www.amazon.com/dp/B0D9LNGBD1 |
